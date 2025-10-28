@@ -10,12 +10,12 @@ The Training Dataset and Testing Dataset are supposed to be placed inside Datase
 App.py is the main app python file that is used to create and build the AI Interface through Gradio & HuggingFace
 
 ## AI Interface URL
-An AI Interface has been implemented on Hugging Face.
-https://huggingface.co/spaces/Richmond28/Bird_Classification_Model
+An AI Interface has been implemented on Hugging Face:
+- https://huggingface.co/spaces/Richmond28/Bird_Classification_Model
 
 ## Vide Presentation Video
-Video Presentation is prepared and uploaded onto YouTube.
-https://youtu.be/NN1GgAr7MkQ
+Video Presentation is prepared and uploaded onto YouTube:
+- https://youtu.be/NN1GgAr7MkQ
 
 ## Dataset & Preprocessing  
 The dataset consists of 200 bird species and is divided into training, validation, and test sets. Key preprocessing steps include:  
