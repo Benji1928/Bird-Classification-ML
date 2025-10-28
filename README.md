@@ -14,7 +14,7 @@ An AI Interface has been implemented on Hugging Face.
 https://huggingface.co/spaces/Richmond28/Bird_Classification_Model
 
 ## Vide Presentation Video
-Video Presentation is prepared and uploaded onto YouTube
+Video Presentation is prepared and uploaded onto YouTube.
 https://youtu.be/NN1GgAr7MkQ
 
 ## Dataset & Preprocessing  
