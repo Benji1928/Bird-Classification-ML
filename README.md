@@ -35,3 +35,8 @@ Key details:
 - **VGG16**: Initial accuracy ~49.38 % → After fine-tuning: ~67 %  
 - **ResNet18**: Initial accuracy ~39.79 % → After feature-extraction only: ~~51 %  
 These results demonstrate that fine-tuning deeper layers significantly enhances performance in fine-grained classification tasks.
+
+
+## Assignment 1.ipynb
+- The main file that holds the different model architectures and training schemes.
+- The files is also used to run and evaluate the model, based on the measuring metrics given.
