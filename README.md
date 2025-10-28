@@ -13,6 +13,10 @@ App.py is the main app python file that is used to create and build the AI Inter
 An AI Interface has been implemented on Hugging Face.
 https://huggingface.co/spaces/Richmond28/Bird_Classification_Model
 
+## Vide Presentation Video
+Video Presentation is prepared and uploaded onto YouTube
+https://youtu.be/NN1GgAr7MkQ
+
 ## Dataset & Preprocessing  
 The dataset consists of 200 bird species and is divided into training, validation, and test sets. Key preprocessing steps include:  
 - Normalization using ImageNet mean and standard deviation  
